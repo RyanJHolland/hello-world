@@ -1,4 +1,2 @@
-test
+test OK NEW CHANGES MADE
 hello world
-
-TEST OF ADDED LINE
